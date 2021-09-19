@@ -162,7 +162,9 @@ form .btn-form:hover{
     color: #cccccc;
     opacity: 0.3;
 }
-
+.imgg-content h4 {
+    font-size: 21px;
+}
 
 /* end */
 
